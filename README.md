@@ -16,8 +16,8 @@ First: Currency that you want them to show. You should input it in symbol of cur
 Second: Crypto currency symbol such as BNB, BTC and ETH etc.., If this symbol is in Coingecko database, it should give you a current price. If not, Good luck !!
 
 For example, 
-- I want currency in Thai baht I will input (thb)
-- and I want to know current bitcoin price I will put (btc)
+- I want currency in Thai baht I will input __(thb)__
+- and I want to know current bitcoin price I will put __(btc)__
 
 If you don't sure about Symbol you can check with https://www.coingecko.com/en
 
